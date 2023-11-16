@@ -1,0 +1,11 @@
+.lang-hover:hover{
+    background-color: black;
+    color: white;
+}
+.lang-hover{
+    transition: .5s;
+    background-color: white;
+}
+.lang-hover h1{
+    cursor: default;
+}
